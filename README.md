@@ -26,4 +26,4 @@ SwiftUI-based mobile app prototype designed to help students track savings, disc
 - Real-time nearby offers
 
 ## Author
-Lana Alkasiy
+Lana Alkasiy.
